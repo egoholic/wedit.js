@@ -1,0 +1,1 @@
+# WEdit is a lightweight and customisable WYSIWYG editor.
